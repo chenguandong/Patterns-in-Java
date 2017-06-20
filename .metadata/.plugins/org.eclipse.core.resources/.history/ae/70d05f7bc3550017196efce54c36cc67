@@ -1,0 +1,10 @@
+package com.pattern.java;
+
+public class Duck {
+
+	FlyBehavior flyBehavior;
+	
+	QuackBehavior quackBehavior;
+	
+	
+}

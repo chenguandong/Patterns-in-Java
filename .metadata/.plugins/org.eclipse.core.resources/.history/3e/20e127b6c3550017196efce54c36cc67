@@ -1,0 +1,13 @@
+package com.pattern.java;
+
+public class Mian {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Duck duck = new Duck();
+		duck.setFlyBehavior(new SuperFly());
+		duck.flyBehavior.fly();
+	}
+
+}

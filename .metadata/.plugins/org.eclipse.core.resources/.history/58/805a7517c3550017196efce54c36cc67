@@ -1,0 +1,11 @@
+package com.pattern.java;
+
+public class SuperFly implements FlyBehavior {
+
+	@Override
+	public void fly() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
